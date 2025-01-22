@@ -1,4 +1,4 @@
-package com.alejobeliz.proyectos.literatura.model;
+package com.cristian.proyectos.literatura.model;
 
 public enum Idioma {
     es("Español"),

@@ -8,7 +8,7 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.alejobeliz.proyectos</groupId>
+	<groupId>com.cristian.proyectos</groupId>
 	<artifactId>literatura</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>literatura</name>

@@ -1,4 +1,4 @@
-package com.alejobeliz.proyectos.literatura.api;
+package com.cristian.proyectos.literatura.api;
 
 import java.io.IOException;
 import java.net.URI;

@@ -1,7 +1,7 @@
-package com.alejobeliz.proyectos.literatura.principal;
+package com.cristian.proyectos.literatura.principal;
 
-import com.alejobeliz.proyectos.literatura.service.MenuService;
-import com.alejobeliz.proyectos.literatura.ui.Menu;
+import com.cristian.proyectos.literatura.service.MenuService;
+import com.cristian.proyectos.literatura.ui.Menu;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.InputMismatchException;
